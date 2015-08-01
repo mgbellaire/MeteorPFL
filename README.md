@@ -1,6 +1,6 @@
 # Meteor Prepare For Launch
 
-JSCS and JSHint configuration for Meteor Style Guide rules
+JSCS and JSHint configuration for Meteor Style Guide rules.
 
 ## Setup
 
