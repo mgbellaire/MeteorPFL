@@ -1,5 +1,7 @@
 # Meteor Prepare For Launch
 
+JSCS and JSHint configuration for Meteor Style Guide rules
+
 ## Setup
 
 1. Install [JSCS][jscs]: `npm install -g jscs`
